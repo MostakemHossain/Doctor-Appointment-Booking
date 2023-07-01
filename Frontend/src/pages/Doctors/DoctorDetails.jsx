@@ -2,6 +2,6 @@
 
 export const DoctorDetails = () => {
     return (
-        <div>DoctorDetails</div>
+        <div className="heading">DoctorDetails</div>
     )
 }
