@@ -25,11 +25,14 @@ const About = () => {
                         <h2 className='heading'>
                             Proud to be one of the nations best
                         </h2>
-                        <p className='text__para'>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum sit sunt hic, nobis repellendus at fugiat provident iste est? Doloribus.
+                        <p className='text__para mt-10'>
+                            The doctor of the future will give no medicine but will interest his patients in the care of the human frame, in diet, and in the cause and prevention of disease.
+                            ” We thanks all doctors who work toward improving the lives of their patients and communities
                         </p>
                         <p className='text__para mt-[30px]'>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum sit sunt hic, nobis repellendus at fugiat provident iste est? Doloribus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates vel minima iste voluptatibus alias blanditiis.
+                            On my call with Anne from Top Doctors, the conversation took a surreal turn.
+
+                            “It says you work for a company called ProPublica,” she said, blithely. At least she had that right.
                         </p>
                         <Link to='/'>
                             <button className="btn">Learn more</button>
